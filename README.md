@@ -1,3 +1,10 @@
+---
+title: "README.md"
+output: 
+  html_document:
+    number_sections: true
+---
+
 # object-oriented-project
 Python courses for the University of Brest - *L2 Informatique* 
 
@@ -8,4 +15,16 @@ Python courses for the University of Brest - *L2 Informatique*
 1. Structure de contrôle
 1. Fonctions
 
-## TD 2 : ...
+## TD 1_bis : fonction de fonction, liste, utilisation de module, exercices d’algorithmique
+
+1. Complément sur les fonctions
+1. Utilisation des listes et référence objet
+1. Espace de nom, module
+  1. La bibliothèque NumPy
+  1. La bibliothèque matplotlib
+  1. Charger ses propres modules
+1. Exercices
+  1. Fonction de fonction
+  1. Dessins géométriques
+  1. Tri à bulles
+
