@@ -1,10 +1,3 @@
----
-title: "README.md"
-output: 
-  html_document:
-    number_sections: true
----
-
 # object-oriented-project
 Python courses for the University of Brest - *L2 Informatique* 
 
