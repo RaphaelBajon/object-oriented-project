@@ -24,5 +24,5 @@ Python courses for the University of Brest - *L2 Informatique*
 ## TD 2 : Approche objet, conception de classe
 
 1. Point, Segment, Triangle
-1. Robot
+1. Classe Robot
 
