@@ -21,3 +21,8 @@ Python courses for the University of Brest - *L2 Informatique*
    1. Dessins géométriques
    1. Tri à bulles
 
+## TD 2 : Approche objet, conception de classe
+
+1. Point, Segment, Triangle
+1. Robot
+
