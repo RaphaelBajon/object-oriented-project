@@ -26,3 +26,10 @@ Python courses for the University of Brest - *L2 Informatique*
 1. Point, Segment, Triangle
 1. Classe Robot
 
+## TD 3 : Collection, Dictionnaire 
+
+*collection, ensemble, bag, dictionnaire*
+
+1. Un ensemble d’entiers, sac d’entiers
+1. Groupes, notes, histogrammes
+
