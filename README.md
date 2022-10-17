@@ -33,3 +33,12 @@ Python courses for the University of Brest - *L2 Informatique*
 1. Un ensemble d’entiers, sac d’entiers
 1. Groupes, notes, histogrammes
 
+## TD 4 : Récursivité
+
+*récursivité et classe*
+
+1. Classe ListeSuite
+1. Tri fusion
+   1. Verison récursive 
+   1. Tru fusion appliqué à un objet de la clase ListeSuite
+1. Gestion des segments de droites 	
