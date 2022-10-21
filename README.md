@@ -39,6 +39,6 @@ Python courses for the University of Brest - *L2 Informatique*
 
 1. Classe ListeSuite
 1. Tri fusion
-   1. Verison récursive 
-   1. Tri fusion appliqué à un objet de la clase ListeSuite
+   1. Version récursive 
+   1. Tri fusion appliqué à un objet de la classe ListeSuite
 1. Gestion des segments de droites 	
