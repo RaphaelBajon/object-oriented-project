@@ -41,4 +41,9 @@ Python courses for the University of Brest - *L2 Informatique*
 1. Tri fusion
    1. Version récursive 
    1. Tri fusion appliqué à un objet de la classe ListeSuite
-1. Gestion des segments de droites 	
+1. Gestion des segments de droites
+
+## TD 5 : Graphe
+
+1. Graphe avec des noeuds pondérés
+1. Graphe avec des noeuds et des arcs pondérés 	
