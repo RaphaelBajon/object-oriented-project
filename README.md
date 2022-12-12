@@ -47,3 +47,8 @@ Python courses for the University of Brest - *L2 Informatique*
 
 1. Graphe avec des noeuds pondérés
 1. Graphe avec des noeuds et des arcs pondérés 	
+
+## TD 7 : fichier et stockage d'objet
+
+1. Scores, résultats
+1. L'incorporer dans le projet
