@@ -1,5 +1,5 @@
 # object-oriented-project
-Python courses for the University of Brest - *L2 Informatique* 
+Cours de python pour étudiants en parcours Inforamatique - Python classes for the University of Brest - *L2 Informatique* 
 
 ## TD 1 : discovering python - approche procédurale : 19/09/2022
 
